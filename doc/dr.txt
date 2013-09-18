@@ -1,0 +1,15 @@
+ex01
+
+README.md (voir Forum):
+ex01
+le nom du cours
+Tom ?
+
+---
+
+utiliser .gitignore
+
+---
+
+la solution creative!
+
